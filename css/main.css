@@ -1,0 +1,43 @@
+<style>
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+  .imgs {
+     background-image:url("../images/wooden1.jpg");     
+}
+
+.fnt
+{
+ color: white !important;	
+}
+.fnt:hover
+{
+    font-weight: bold;
+	color: #FFFF99 !important;
+}
+.carousel-caption {
+      top:0;
+      bottom: auto;
+      right: auto;
+}
+.vline{
+    height:50px;
+	border-right:2px solid rgba(37, 33, 33, 0.45); 
+	color: grey;
+    font-size: 18px;
+	}
+.padtop{
+	margin-top: 20px;
+}
+.padleft{
+	margin-left: 20px;
+}
+.sline
+{
+	border: 1px solid black;
+}
+</style>
+
